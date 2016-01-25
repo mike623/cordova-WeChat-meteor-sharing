@@ -38,7 +38,7 @@ if(Meteor.isClient){
 }
 
 
-
+ //for ios sharing payload
  // // text:"asdsad",
  //        message: {
  //          // mediaTagName: "TEST-TAG-001",
